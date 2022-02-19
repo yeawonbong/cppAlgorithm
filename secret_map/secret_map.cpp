@@ -45,7 +45,7 @@ int main(void) {
 	arr1.push_back(28);
 	arr1.push_back(18);
 	arr1.push_back(11);
-	
+
 	arr2.push_back(30);
 	arr2.push_back(1);
 	arr2.push_back(21);
