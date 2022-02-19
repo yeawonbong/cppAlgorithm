@@ -44,6 +44,5 @@ string solution(string new_id) {
 int main()
 {
 	string str("...!@BaT#*..y.abcdefghijklm");
-	// remove(str.begin(), str.end(), 'c');
 	cout << solution(str) << "  len:" << solution(str).length() << endl;
 }
